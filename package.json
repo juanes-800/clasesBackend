@@ -1,0 +1,22 @@
+{
+  "name": "clasesbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanes-800/clasesBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanes-800/clasesBackend/issues"
+  },
+  "homepage": "https://github.com/juanes-800/clasesBackend#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
