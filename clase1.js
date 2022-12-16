@@ -99,21 +99,21 @@
 // console.log(`obtner cuenta global`, persona1.obtenerCuentaGlobal())
 // persona1.contar();
 
-const lista = [1,3,4];
+// const lista = [1,3,4];
 
-const mostrarLista = (lista)=>{
-    if(lista.length === 0){
-        console.log('lista se encuentra vacia')
-    }else{
-        for(let i = 0; i< lista.length; i++){
-            console.log( `elemento ${[i]}: ${lista[i]} `);
+// const mostrarLista = (lista)=>{
+//     if(lista.length === 0){
+//         console.log('lista se encuentra vacia')
+//     }else{
+//         for(let i = 0; i< lista.length; i++){
+//             console.log( `elemento ${[i]}: ${lista[i]} `);
             
-        }
-    }
+//         }
+//     }
 
-}
+// }
 
-(function(){
+// (function(){
 
-    mostrarLista([1,2,3,4,5,6,]);
-})()
+//     mostrarLista([1,2,3,4,5,6,]);
+// })()
